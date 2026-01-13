@@ -1,0 +1,22 @@
+{
+  "name": "uin-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "do-": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "UIN SMH Banten",
+    "UIN"
+  ],
+  "author": "dovin mavaza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.11"
+  }
+}
