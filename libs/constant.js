@@ -15,6 +15,6 @@ Selamat datang! Silahkan gunakan perintah berikut ini:
 --------------------------
 `;
 
-const invalidCommand = `Mohon maaf, command tidak tersedia !\nKetik !help untuk command list`;
+const invalidCommand = `Mohon maaf, command tidak tersedia! \nKetik !help untuk command list`;
 
 module.exports = { helpText, invalidCommand };

@@ -1,7 +1,7 @@
 const Uinbot = require("./app/Uinbot");
 require("dotenv").config();
 
-const token = process.env.TELEGRAM_TOKEN;
+const token = process.env.TOKEN;
 const options = {
   polling: true,
 };
